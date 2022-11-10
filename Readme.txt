@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Hidayah
-Template URL: https://bootstrapmade.com/hidayah-free-simple-html-template-for-corporate/
+Template Name: Lumia
+Template URL: https://bootstrapmade.com/lumia-bootstrap-business-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
